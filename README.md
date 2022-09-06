@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color&height=500&section=header&text=Hyunii02&fontSize=120)
-
 <h3 align="center">💻Tech Stack💻</h3>
 <p align="center"> Techs that I can use </p>
 
