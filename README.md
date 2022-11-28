@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/Django-green?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-orange?style=flat-square&logo=CSS3&logoColor=white"/>
 </p>
   
 
